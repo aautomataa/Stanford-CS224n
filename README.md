@@ -1,4 +1,4 @@
-# CS224n
+# Stanford-CS224n
 ### 课程信息
 Course Homepage: [CS224N: Natural Language Processing with Deep Learning](https://cs224n.stanford.edu/)
 
